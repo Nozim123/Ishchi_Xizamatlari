@@ -1,0 +1,8 @@
+{
+  "name": "Ishchi Xizmatlari",
+  "description": "A marketplace for skilled workers and households, connecting users with trusted masters for home services.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
